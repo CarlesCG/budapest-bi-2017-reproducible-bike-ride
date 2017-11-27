@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Ignore 'ignore' folder (muy meta)
+*ignore/*
+
+# Ignore RMD file
+*.Rmd
+
+*data/*
+*libs/*
