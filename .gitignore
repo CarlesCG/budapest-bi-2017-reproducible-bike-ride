@@ -4,11 +4,13 @@
 .Ruserdata
 *.Rproj
 
-# Ignore 'ignore' folder (muy meta)
-*ignore/*
-
-# Ignore RMD file
-*.Rmd
-
+# Ignore folders
+# muy meta
+*ignore/* 
 *data/*
 *libs/*
+
+# Ignore files
+*.html
+*.Rmd
+
